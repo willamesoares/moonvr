@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoonVR.CSharp", "MoonVR.CSharp.csproj", "{9C6ED87A-51BD-3F0D-C3AE-0B603C343DB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoonVR.CSharp.Editor", "MoonVR.CSharp.Editor.csproj", "{5048E602-BBBD-3A4B-FA0D-6D172A2FCFDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C6ED87A-51BD-3F0D-C3AE-0B603C343DB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C6ED87A-51BD-3F0D-C3AE-0B603C343DB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C6ED87A-51BD-3F0D-C3AE-0B603C343DB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C6ED87A-51BD-3F0D-C3AE-0B603C343DB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5048E602-BBBD-3A4B-FA0D-6D172A2FCFDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5048E602-BBBD-3A4B-FA0D-6D172A2FCFDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5048E602-BBBD-3A4B-FA0D-6D172A2FCFDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5048E602-BBBD-3A4B-FA0D-6D172A2FCFDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
